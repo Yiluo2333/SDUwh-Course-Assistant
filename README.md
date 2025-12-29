@@ -49,6 +49,7 @@
 2.  点击 **“控制台” (Console)** 标签页。
 3.  在顶部点击**top**选择**selectTable()getBxxkxx**按钮
 <img width="406" height="445" alt="image" src="https://github.com/user-attachments/assets/cd88842c-524c-44e0-a71c-b2b9cf253d33" />
+
 4.  复制 [`script.js`](./script.js) 中的所有代码。
 5.  粘贴到控制台，按下 **`Enter`** 回车运行。
 
