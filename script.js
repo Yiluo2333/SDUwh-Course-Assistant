@@ -18,7 +18,6 @@
     const inputInterval = prompt("请输入点击间隔 (毫秒) [建议: 1500]:", "1500");
     const LOOP_INTERVAL = parseInt(inputInterval) || 1500;
 
-    console.clear();
     console.log(`%c[智能版] 目标: ${inputId}-${inputSeq} | 频率: ${LOOP_INTERVAL}ms`, "color: #fff; background: #ea580c; padding: 6px;");
 
     // 全局状态标记
